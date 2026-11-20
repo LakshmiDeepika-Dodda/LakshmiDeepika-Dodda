@@ -18,14 +18,13 @@ Best practices for scalable web architecture, performance optimization, and inte
 ### **About Me**
 
 - **Education:**  
-  - MSc in Mobile Application Development, Lublin University of Technology, Poland (2022)
+  - MSc in Mobile Application Development, Lublin University of Technology, Poland (2021)
   - BTech in Computer Science and Engineering, JNTU, India (2016)
 - **Experience:**  
-  - Junior GIS Engineer at Cyient, Hyderabad (2017–2019)
-  - Android Application Developer at Ram Tech, Hyderabad (2016–2017)
+  - Android Application Developer at Ram Tech, Hyderabad (2016–2019)
 - **Skills:**  
-  - **Frontend:** React, JavaScript, TypeScript, Bootstrap, TailwindCSS, jQuery, Vue.js, Angular
-  - **Backend:** Node.js, REST API, PHP
+  - **Frontend:** React, JavaScript, TypeScript, Bootstrap, TailwindCSS, jQuery, Angular
+  - **Backend:** Node.js, REST API
   - **Tools:** Android Studio, Visual Studio Code, GIT, ServiceNow, Tableau, AutoCAD
   - **Languages:** English (fluent), German (B1, progressing towards B2)
 - **Projects:**  
